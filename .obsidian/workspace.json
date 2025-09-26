@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "01d251e5f11f0042",
+    "id": "a03ecd5bfedfce96",
     "type": "split",
     "children": [
       {
-        "id": "945afe31e1248f79",
+        "id": "996168b63af5c34b",
         "type": "tabs",
         "children": [
           {
-            "id": "33fd3c3666c40457",
+            "id": "66080315d0bc572a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/blog/first-post.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "first-post"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "27c41a1b77ac61c1",
+    "id": "5635992eb78476c0",
     "type": "split",
     "children": [
       {
-        "id": "55c20ee86fa8358b",
+        "id": "f5fbdb582ac80ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c23246057aead7",
+            "id": "2e9421f15f7e4693",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "fb0c7c30d57d7c2b",
+            "id": "c15cdb2668b1c1b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "36dc2f29e79a6ec4",
+            "id": "2a67a0c452533d2d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "867972c0ee43a000",
+    "id": "51d4a5673602e3ad",
     "type": "split",
     "children": [
       {
-        "id": "98045aa7b8e60c0e",
+        "id": "214f54e356590214",
         "type": "tabs",
         "children": [
           {
-            "id": "e76103144b6df545",
+            "id": "4762c947e8b4bab8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/blog/first-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for first-post"
             }
           },
           {
-            "id": "4ec740380e0b43ee",
+            "id": "01a8be9341e2eb68",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/blog/first-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from first-post"
             }
           },
           {
-            "id": "adfe8c043384d958",
+            "id": "09af8e7153cc0201",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +137,18 @@
             }
           },
           {
-            "id": "d31ef5a914ea83b1",
+            "id": "0cc1e4e98b91bb26",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/blog/first-post.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of first-post"
             }
           }
         ]
@@ -162,28 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "33fd3c3666c40457",
+  "active": "2e9421f15f7e4693",
   "lastOpenFiles": [
-    "pages/posts/post2.md",
-    "pages/posts/post1.md",
-    "pages/posts",
-    "pages/blog/blog2.md",
-    "pages/blog/post2.md",
-    "pages/blog/post1.md",
-    "pages/blog/blog1.md",
-    "pages/projects/project2.md",
-    "pages/blog",
-    "pages/projects/project1.md",
-    "Untitled.md",
-    "index.md",
-    "pages/projects",
-    "docs",
-    "pages/about.md",
-    "pages",
-    "docs/about.md",
-    "about.md",
+    "node_modules/@esbuild/android-arm",
+    "docs/pages/about.md",
+    "docs/pages/contacts.md",
+    "docs/pages/projects.md",
     "docs/index.md",
-    "docs/markdown-examples.md",
-    "docs/api-examples.md"
+    "docs/blog/first-post.md",
+    "README.md"
   ]
 }
