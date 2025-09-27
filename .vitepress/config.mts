@@ -5,6 +5,7 @@ export default defineConfig({
   description: "гойда",
   cleanUrls: true,
   ignoreDeadLinks: true,
+  srcDir: 'pages',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     sidebar: [
