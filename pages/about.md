@@ -1,2 +1,3 @@
 # About
-- Я крутой
+
+Under development...
