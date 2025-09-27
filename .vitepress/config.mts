@@ -6,6 +6,7 @@ export default defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
   srcDir: 'pages',
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     sidebar: [
